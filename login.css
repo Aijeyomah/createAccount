@@ -1,0 +1,75 @@
+body{
+    background-color: #478bcc;
+}
+/* form */
+div{
+    height: 580px;
+    background-color: whitesmoke;
+    width: 300px;
+    margin: 100px 400px 30px 400px;
+    padding: 40px 50px;
+    Border-color: #edf0f2
+
+}
+/* the header */
+h1{
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #46515c;
+    font-size: 22px 
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #46515c;
+    font-size: 14px
+}
+/* the input boxes */
+.content{
+    margin-bottom:20px;
+    margin-top: 15px;
+    height: 40px;
+    width: 300px;
+    border: #edf0f2;
+    Border-color: #edf0f2;
+    
+
+    
+}
+/* terms and conidition */
+#click{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px
+
+  }
+    #button{
+    margin-top:15px; 
+    margin-bottom: 20px;
+    width:300px;
+    height: 40px;
+    background-color:green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    }
+    /* links */
+    a{
+         color: #478bcc; 
+        text-decoration:none;
+    }
+    /* sign in */
+    span{
+        margin-left: 500px;
+         margin-top: 5px;
+         color: #ffff;
+         font-size: 12px;
+         font-family: 'Times New Roman', Times, serif;
+         font-weight: 80;
+    }
+    /* sign in link */
+    span>a{
+        color: #ffff;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        
+    }
+    
